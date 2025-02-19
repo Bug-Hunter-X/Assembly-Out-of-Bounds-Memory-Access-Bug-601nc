@@ -1,0 +1,1 @@
+This repository demonstrates a subtle out-of-bounds memory access bug in x86 assembly language. The bug occurs when the program attempts to access and modify memory locations outside the allocated array bounds. This can lead to crashes, unexpected behavior, or security vulnerabilities. The solution provided incorporates robust bounds checking to prevent this.
